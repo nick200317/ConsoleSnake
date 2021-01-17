@@ -1,0 +1,7 @@
+C:\Users\nikpl\source\repos\GeekSnake\GeekBrainsSnake\GeekBrainsSnake\bin\Debug\GeekBrainsSnake.exe.config
+C:\Users\nikpl\source\repos\GeekSnake\GeekBrainsSnake\GeekBrainsSnake\bin\Debug\GeekBrainsSnake.exe
+C:\Users\nikpl\source\repos\GeekSnake\GeekBrainsSnake\GeekBrainsSnake\bin\Debug\GeekBrainsSnake.pdb
+C:\Users\nikpl\source\repos\GeekSnake\GeekBrainsSnake\GeekBrainsSnake\obj\Debug\GeekBrainsSnake.csprojAssemblyReference.cache
+C:\Users\nikpl\source\repos\GeekSnake\GeekBrainsSnake\GeekBrainsSnake\obj\Debug\GeekBrainsSnake.csproj.CoreCompileInputs.cache
+C:\Users\nikpl\source\repos\GeekSnake\GeekBrainsSnake\GeekBrainsSnake\obj\Debug\GeekBrainsSnake.exe
+C:\Users\nikpl\source\repos\GeekSnake\GeekBrainsSnake\GeekBrainsSnake\obj\Debug\GeekBrainsSnake.pdb
