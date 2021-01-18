@@ -20,6 +20,9 @@ namespace GeekBrainsSnake
             HorizontalLine hl = new HorizontalLine(5, 10, 8, '+');
             hl.DrawLine();
 
+            VerticalLine vl = new VerticalLine(0, 9, 10, '3');
+            vl.DrawLine();
+
             Console.ReadLine();
         }
     }
