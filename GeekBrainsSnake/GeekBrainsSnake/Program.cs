@@ -17,6 +17,9 @@ namespace GeekBrainsSnake
             pList.Add(p1);
             pList.Add(p2);
 
+            HorizontalLine hl = new HorizontalLine(5, 10, 8, '+');
+            hl.DrawLine();
+
             Console.ReadLine();
         }
     }
