@@ -33,8 +33,7 @@ namespace GeekBrainsSnake
 
         public Point GetNextPoint()
         {
-            Point head = pList.Last();
-            Point nextPoint = new Point(head);
+            Point nextPoint = new Point(pList.Last());
             nextPoint.Move(1, direction);
 
             return nextPoint;
