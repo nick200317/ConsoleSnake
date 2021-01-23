@@ -38,11 +38,11 @@ namespace GeekBrainsSnake
             }
             else if (direction == Direction.UP)
             {
-                y += offset;
+                y -= offset;
             }
             else if (direction == Direction.DOWN)
             {
-                y -= offset;
+                y += offset;
             }
         }
 
